@@ -4,18 +4,18 @@ import fs from 'fs'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  //['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['3106260408', 'andrea', true],
+  ['3106260408',],
+  //['3106260408'],	
+  ['3106260408',],
+  ['3106260408'],
+  ['3106260408'],
 ] //Numero degli owner
 
 //════════════ •⊰✧⊱• ════════════
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.mods = ['3106260408'] 
+global.prems = ['3106260408', '3106260408']
 
 //════════════ •⊰✧⊱• ════════════
 
